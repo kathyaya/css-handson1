@@ -1,17 +1,4 @@
-.text1{
-
-    text-decoration:line-through;
-   font-weight: bold;
-}
-.text2{
-        background-color: yellow;
-        font-weight: bold;
-}
-.text3{
-        text-decoration: underline;
-        font-weight: lighter;
-}
-.text4{
-        background-color: yellow;
-        font-weight: bold;
-}
+.external {
+        color: brown;
+        letter-spacing: 5px;  
+    }
